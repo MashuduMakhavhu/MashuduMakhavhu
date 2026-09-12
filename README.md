@@ -1,28 +1,35 @@
-# Student Attendance Management System
+# Hi there, I'm Mashudu Makhavhu 👋
 
-A full-stack Java application designed to streamline, automate, and track student attendance and reporting.
+🎓 **Computer Science Graduate | Full-Stack Java Developer | Aspiring Software Engineer**
 
-## Key Features
+I build reliable, scalable full-stack applications with a focus on clean Java architecture, robust backend systems, and responsive user experiences. 
 
-* **Role-Based Access Control:** Separate workflows and dashboards for Administrators, Instructors, and Students.
-* **Attendance Tracking:** Real-time logging, editing, and historical attendance tracking per course or module.
-* **Automated Analytics & Reports:** Exportable summary reports and attendance percentage calculations.
-* **RESTful API:** Clean API endpoints handling data validation and error handling.
+---
 
-## Tech Stack
+### 💻 Technical Stack
 
-* **Backend:** Java, Spring Boot, Spring Security
-* **Frontend:** HTML, CSS, JavaScript (or Thymeleaf / React / Angular)
-* **Database:** MySQL / PostgreSQL
-* **Build Tool:** Maven
+* **Languages:** Java, JavaScript, SQL, HTML5, CSS3
+* **Backend:** Spring Boot, RESTful APIs, Spring Security
+* **Frontend:** HTML/CSS, JavaScript Frameworks
+* **Databases:** MySQL, PostgreSQL
+* **Tools & DevOps:** Git, GitHub, Maven, Postman
 
-## rerequisites
+---
 
-* Java Development Kit (JDK 17+)
-* Maven
-* Database Engine (MySQL / PostgreSQL)
+### 🚀 Featured Project
 
-## Getting Started
-   git clone [https://github.com/MashuduMakhavhu/Student-Attendance-Management-System.git](https://github.com/MashuduMakhavhu/Student-Attendance-Management-System.git)
-   cd Student-Attendance-Management-System
-   
+📂 **[Student Attendance Management System](https://github.com/MashuduMakhavhu)**  
+A full-stack application designed to automate, manage, and report student attendance using Java, Spring Boot, and relational databases.
+
+---
+
+### 📬 Connect with Me
+
+* 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+* 📧 **Email:** your.email@example.com
+* 🌍 **Location:** South Africa
+
+---
+
+📊 **GitHub Stats**  
+![Mashudu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MashuduMakhavhu&show_icons=true&theme=radial)
