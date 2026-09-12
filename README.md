@@ -1,16 +1,28 @@
-## Hi there 👋
+# Student Attendance Management System
 
-<!--
-**MashuduMakhavhu/MashuduMakhavhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full-stack Java application designed to streamline, automate, and track student attendance and reporting.
 
-Here are some ideas to get you started:
+## Key Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Role-Based Access Control:** Separate workflows and dashboards for Administrators, Instructors, and Students.
+* **Attendance Tracking:** Real-time logging, editing, and historical attendance tracking per course or module.
+* **Automated Analytics & Reports:** Exportable summary reports and attendance percentage calculations.
+* **RESTful API:** Clean API endpoints handling data validation and error handling.
+
+## Tech Stack
+
+* **Backend:** Java, Spring Boot, Spring Security
+* **Frontend:** HTML, CSS, JavaScript (or Thymeleaf / React / Angular)
+* **Database:** MySQL / PostgreSQL
+* **Build Tool:** Maven
+
+## rerequisites
+
+* Java Development Kit (JDK 17+)
+* Maven
+* Database Engine (MySQL / PostgreSQL)
+
+## Getting Started
+   git clone [https://github.com/MashuduMakhavhu/Student-Attendance-Management-System.git](https://github.com/MashuduMakhavhu/Student-Attendance-Management-System.git)
+   cd Student-Attendance-Management-System
+   
