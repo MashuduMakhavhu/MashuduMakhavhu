@@ -25,8 +25,8 @@ A full-stack application designed to automate, manage, and report student attend
 
 ### 📬 Connect with Me
 
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
-* 📧 **Email:** your.email@example.com
+* 💼 **LinkedIn:**https://www.linkedin.com/in/mashudu-makhavhu-10a690332?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* 📧 **Email:** mashuduluckie219@gmail.com
 * 🌍 **Location:** South Africa
 
 ---
